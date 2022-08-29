@@ -7,13 +7,6 @@ The approach is to:
 - constantly ask "what, why, how"
 - try the most minimalist code unless it doesn't make sense to
 - use the "onion" - sometimes we go deep into one topic, and at other times it's very shallow but we cover various topics  
-  
-<br/>  
-  
-<br/>  
-
-[Common Local Dev Environment Setup Steps](How-To-Set-Up-Env-Common.md)  
-  
 <br/>  
 <br/>  
 
