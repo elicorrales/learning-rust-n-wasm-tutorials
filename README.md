@@ -16,4 +16,12 @@ The approach is to:
 [WASM Programming Part 1 Install Runtimes](https://www.youtube.com/watch?v=1FVWZPffZRg)  
 In this video we install tree WASM Runtimes (Wasmedge, Wasmtime, and Wasmer)  
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-1) is the code and helpful stuff for Part 1.  
+<br/>
+  
+
+[WASM Programming Part 2 Hello World]()  
+In this video we run a very basic Rust WASM bin and lib against Wasmedge, Wasmtime, and Wasmer.  
+[Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-2) is the code and helpful stuff for Part 2.  
+<br/>
+  
 
