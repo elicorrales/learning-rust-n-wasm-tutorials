@@ -1,6 +1,5 @@
-[Series I WASM Tutorial]()  
-<br/>  
-  
+# Rust And Wasm Tutorials
+
 These video-based(youtube) tutorials attempt to choose something somewhat challenging but at the same time go at a slow pace and try to go over basics.  
 <br/>
 The approach is to:
@@ -10,7 +9,7 @@ The approach is to:
 <br/>  
 <br/>  
 
-## Series I - WASM Tutorial  
+## Series I - WASM Tutorial (Hands-On Introduction)
   
 
 [WASM Programming Part 1 Install Runtimes](https://www.youtube.com/watch?v=1FVWZPffZRg)  
