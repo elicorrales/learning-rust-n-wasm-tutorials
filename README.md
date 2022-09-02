@@ -18,9 +18,14 @@ In this video we install tree WASM Runtimes (Wasmedge, Wasmtime, and Wasmer)
 <br/>
   
 
-[WASM Programming Part 2 Hello World](https://www.youtube.com/watch?v=ONXJs64GN_g)  
+[WASM Programming Part 2 Hello World(and more) With Wasmedge, Wasmtime, and Wasmer](https://www.youtube.com/watch?v=ONXJs64GN_g)  
 In this video we run a very basic Rust WASM bin and lib against Wasmedge, Wasmtime, Wasmer, and Node.js.  
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-2) is the code and helpful stuff for Part 2.  
 <br/>
   
 
+[WASM Programming Part 3 Hello World(and more) With Node.js](https://www.youtube.com/watch?v=ONXJs64GN_g)  
+In this video we sort of mimick the WASM runtimes that we did in Part 2, by writing our own with Javascript.  
+[Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-3) is the code and helpful stuff for Part 3.  
+<br/>
+  
