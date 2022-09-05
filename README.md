@@ -30,7 +30,7 @@ In this video we sort of mimick the WASM runtimes that we did in Part 2, by writ
 <br/>
   
 [WASI Programming Part 4 Hello World(and more) With Node.js](https://www.youtube.com/watch?v=Mw5L8HrHGTw)  
-In this video we continue with our Node.js Javascript runner from Part 3, but this time we run WASI, not just WASM.  
+In this video we continue with our Node.js Javascript runner from Part 3, but this time we run **WASI**, not just WASM.  
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-4) is the code and helpful stuff for Part 4.  
 <br/>
   
