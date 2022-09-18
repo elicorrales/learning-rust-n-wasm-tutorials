@@ -34,3 +34,8 @@ In this video we continue with our Node.js Javascript runner from Part 3, but th
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-4) is the code and helpful stuff for Part 4.  
 <br/>
   
+[WASM Programming Part 5 By Hand (Text Format, S-Expressions, Stack Machine)]()  
+In this video we will write our own WASM code without the help of Rust.  
+[Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-5) is the code and helpful stuff for Part 5.  
+<br/>
+  
