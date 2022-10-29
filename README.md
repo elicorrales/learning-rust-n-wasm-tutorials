@@ -39,7 +39,7 @@ In this video we will write our own WASM code without the help of Rust.
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-5) is the code and helpful stuff for Part 5.  
 <br/>
   
-[WASM Programming Part 6 By Hand (Setup - How To Debug](https://www.youtube.com/watch?v=0TOy94rKa9M)  
+[WASM Programming Part 6 By Hand (Setup - How To Debug)](https://www.youtube.com/watch?v=HlijBj3J1mk)  
 In this video we write a simple WASM function, a simple HTML file with simple embedded Javascript, to load, compile, instantiate, run, and debug our WASM executable in a browser.  
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-6) is the code and helpful stuff for Part 6.  
 <br/>
