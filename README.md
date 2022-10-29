@@ -44,7 +44,7 @@ In this video we write a simple WASM function, a simple HTML file with simple em
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-6) is the code and helpful stuff for Part 6.  
 <br/>
   
-[WASM Programming Part 7 By Hand - Gain Some Insight Into WASM By Debugging]()  
+[WASM Programming Part 7 By Hand - Gain Some Insight Into WASM By Debugging](https://www.youtube.com/watch?v=8YD0Pr8frik)  
 In this video we continue where we left off in previous (above) video and play around with some WASM statements and see what the debugging shows us.  
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-7) is the code and helpful stuff for Part 7.  
 <br/>
