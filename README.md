@@ -49,3 +49,12 @@ In this video we continue where we left off in previous (above) video and play a
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-7) is the code and helpful stuff for Part 7.  
 <br/>
   
+## Series II - RUST, WASM (An RPN Stack VM?)
+  
+[Rust RPN Part 1]()  
+In this video we attempt to simulate an RPN Stack Machine (Sort of)
+We take a look at Vector as a Stack.
+[Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-playlist-1-part-1) is the code and helpful stuff for Part 1.  
+<br/>
+  
+
