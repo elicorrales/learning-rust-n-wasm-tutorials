@@ -51,8 +51,8 @@ In this video we continue where we left off in previous (above) video and play a
   
 ## Series II - RUST, WASM (An RPN Stack VM?)
   
-[Rust RPN Calculator Part 1]()  
-In this video we attempt to simulate an RPN Stack Machine (Sort of)
+[Rust(WASM?) RPN Calculator Part 1: Analysis & Design Intro]()  
+In this video we attempt to simulate an RPN Stack Machine (Sort of).
 We take a look at Vector as a Stack.
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-rpn-calc-playlist-2-part-1) is the code and helpful stuff for Part 1.  
 <br/>
