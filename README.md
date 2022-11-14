@@ -53,13 +53,13 @@ In this video we continue where we left off in previous (above) video and play a
   
 [Rust(WASM?) RPN Calculator Part 1: Analysis & Design Intro](https://www.youtube.com/watch?v=1vMnEs6LrcE)  
 In this video we attempt to simulate an RPN Stack Machine (Sort of).
-We take a look at Vector as a Stack.
+We take a look at Vector as a Stack.  
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-rpn-calc-playlist-2-part-1) is the code and helpful stuff for Part 1.  
 <br/>
   
 
 [Rust(WASM?) RPN Calculator Part 2: Impl Basic Calculator]()  
-In this video we implement the basics of an RPN Calculator, using fake inputs, not from the keyboard. Keyboard entry will be in the next video after this one.
+In this video we implement the basics of an RPN Calculator, using fake inputs, not from the keyboard. Keyboard entry will be in the next video after this one.  
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-rpn-calc-playlist-2-part-2) is the code and helpful stuff for Part 2.  
 <br/>
   
