@@ -58,3 +58,9 @@ We take a look at Vector as a Stack.
 <br/>
   
 
+[Rust(WASM?) RPN Calculator Part 2: Impl Basic Calculator]()  
+In this video we implement the basics of an RPN Calculator, using fake inputs, not from the keyboard. Keyboard entry will be in the next video after this one.
+[Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-rpn-calc-playlist-2-part-2) is the code and helpful stuff for Part 2.  
+<br/>
+  
+
