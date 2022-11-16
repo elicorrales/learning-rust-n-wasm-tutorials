@@ -64,3 +64,9 @@ In this video we implement the basics of an RPN Calculator, using fake inputs, n
 <br/>
   
 
+[Rust(WASM?) RPN Calculator Part 3: Separation of Concerns; Software Dev Process; Impl Keyboard Input]()  
+In this video we touch the software development process, we discuss separation of concerns, and review taking input from the keyboard.  
+[Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-rpn-calc-playlist-2-part-3) is the code and helpful stuff for Part 3.  
+<br/>
+  
+
