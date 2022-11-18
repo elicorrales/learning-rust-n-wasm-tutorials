@@ -70,3 +70,9 @@ In this video we touch the software development process, we discuss separation o
 <br/>
   
 
+[Rust(WASM?) RPN Calculator Part 4: Combine Part 2 & 3 Into Calculator Project]()  
+In this video we combine our rpn-basic(the actual calculator) with the rpn-cli(the keyboard input handler) into a working calculator.  
+[Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-rpn-calc-playlist-2-part-4) is the code and helpful stuff for Part 4.  
+<br/>
+  
+
