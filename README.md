@@ -76,3 +76,9 @@ In this video we combine our rpn-basic(the actual calculator) with the rpn-cli(t
 <br/>
   
 
+[Is WASM an RPN Calculator? Part 6: Simple Version]()  
+In this video we try to answer our original question of Part 1: does the WASM Virtual Machine behave like an RPN Calculator.  
+[Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-rpn-calc-playlist-2-part-5) is the code and helpful stuff for Part 5.  
+<br/>
+  
+
