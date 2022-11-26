@@ -82,7 +82,7 @@ In this video we try to answer our original question of Part 1: does the WASM Vi
 <br/>
   
 
-[WASM RPN Calculator Part 6: Can State Be Maintained? Passing Params, WASM Function Calls, HTML, Javascript]()  
+[WASM RPN Calculator Part 6: Can State Be Maintained? Passing Params, WASM Function Calls, HTML, Javascript](https://www.youtube.com/watch?v=Pn0TuKdsFZc)  
 In this video we explore if the WASM Virtual Machine can maintain state between function invocations, since it is a requirement of an RPN Calculator.  
 [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-rpn-calc-playlist-2-part-6) is the code and helpful stuff for Part 6.  
 <br/>
