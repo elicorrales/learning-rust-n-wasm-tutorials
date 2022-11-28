@@ -88,3 +88,9 @@ In this video we explore if the WASM Virtual Machine can maintain state between 
 <br/>
   
 
+[WASM RPN Calculator Part 7: Nested If/Else, HTML, Javascript](https://www.youtube.com/watch?v=Pn0TuKdsFZc)  
+In this video we explore WASM Virtual Machine nested if/else statments, since it is a requirement of an RPN Calculator.  
+[Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials-rpn-calc-playlist-2-part-7) is the code and helpful stuff for Part 7.  
+<br/>
+  
+
